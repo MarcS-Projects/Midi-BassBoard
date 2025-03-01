@@ -134,6 +134,8 @@ void panicReset() {
 This project uses the following libraries:  
 📌 **MIDIUSB** – For USB MIDI communication.  
 📌 **U8g2** – To control the SH1106 OLED display.  
+📌 **usb_rename** - To customize the name displayed when device is connect via USB.
+📌 **Wire.h** - For MIDI **DIN-5** output.
 
 ---
 
