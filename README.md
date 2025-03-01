@@ -1,4 +1,3 @@
-/*
   BassBoard - DIY MIDI Pedalboard with OLED & MIDI OUT
   -----------------------------------------------------
   This is a custom-built MIDI pedalboard designed for use with 
@@ -21,4 +20,3 @@
 
   Code By: Marc Sexton
   Date: 2025-02-18
-*/
