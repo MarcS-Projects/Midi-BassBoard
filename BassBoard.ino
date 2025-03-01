@@ -1,5 +1,5 @@
 /*
-  BassBoard - DIY MIDI Pedalboard with OLED & MIDI OUT
+  BassBoard - DIY MIDI Pedalboard with OLED & MIDI OUT 
   -----------------------------------------------------
   This is a custom-built MIDI pedalboard designed for use with 
   organs, synths, pads, and more. It allows for foot-controlled 
